@@ -12,3 +12,6 @@ Trebuie rulate toate casutele cu functii, atunci cand se ajunge la casuta cu cla
 self.dir_test_examples cu path-ul unde sunt imaginile de test
 
 Apoi se ruleaza casuta care calculeaza detectii, scoruri si file_names si cea care le salveaza, trebuie schimbat path-ul unde se salveaza. Casutele cu comentariul #NU SE RULEAZA LA TESTARE trebuie sa nu fie rulate.
+
+Link-ul de baza pentru dataset:
+https://www.dropbox.com/scl/fo/4mnzu3mfj14k6awwbm7kl/AGOMcb8o_F9MXH9G2zY3VBU?rlkey=v4ytfq006m381uri24izm07b6&e=1&st=wvfwsq9r&dl=0
